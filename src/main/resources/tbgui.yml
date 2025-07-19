@@ -1,0 +1,24 @@
+title: '&8Доступные города'
+rows: 3
+town-item:
+  material: EMERALD
+  itemsadder: ''
+  name: '&a%town%'
+  lore:
+    - '&7Нация: %nation%'
+    - '&7Чанков: %chunks%'
+    - '&eЦена: %price%'
+filler:
+  material: BLACK_STAINED_GLASS_PANE
+  itemsadder: ''
+  name: ' '
+next-page:
+  material: ARROW
+  itemsadder: ''
+  slot: -1
+  name: '&aСледующая'
+prev-page:
+  material: ARROW
+  itemsadder: ''
+  slot: -9
+  name: '&cНазад'

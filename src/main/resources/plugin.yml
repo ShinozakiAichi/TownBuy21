@@ -1,0 +1,15 @@
+name: TownBuy21
+version: 1.0-SNAPSHOT
+main: com.example.townbuy21.TownBuy21
+api-version: 1.21
+depend: [Towny]
+softdepend: [Vault]
+commands:
+  townbuy:
+    usage: /<command> <town>
+  townsell:
+    usage: /<command>
+  npctowns:
+    usage: /<command>
+  tbmenu:
+    usage: /<command>

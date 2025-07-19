@@ -1,0 +1,28 @@
+# %town%
+# %nation%
+# %price%
+# %chunks%
+
+language:
+  unknown_town: "&cНеизвестный город"
+  already_bought: "&cГород уже куплен"
+  not_enough_money: "&cНе хватает %money% для покупки."
+  not_enough_items: "&cВам не хватает: &7%items%"
+  not_enough_args: "&cНедостаточно аргументов."
+  already_in_town: "&cВы уже состоите в городе."
+  successful_purchase: "&aВы успешно приобрели город %town%."
+  is_not_mayor: "вы не мэр"
+  already_mayor: "&cВы уже являетесь мэром другого города."
+  no: "&cГород недоступен."
+  title: "&a"
+
+  translate:
+    COBBLESTONE: "Булыжник"
+
+  info_message:
+    - "&eГород: %town%"
+    - "&eНация: %nation%"
+    - "&eКол-во чанков: %chunks%"
+    - "&eЦена: %price%"
+
+  buy_message: "&a[Купить]"

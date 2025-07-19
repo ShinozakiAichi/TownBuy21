@@ -1,0 +1,11 @@
+mode: ECONOMY
+
+towns:
+  Moscow:
+    mayor: NPC1
+    buyable: true
+    price: 5
+  Petersburg:
+    mayor: NPC2
+    buyable: false
+    price: 0
